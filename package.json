@@ -1,0 +1,20 @@
+{
+  "name": "fleetster-client",
+  "version": "3.38.15",
+  "repository": "https://gitlab.fleetster.de/fleetster/fleetster-ng-client",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "",
+    "run": "node ./server.js"
+  },
+  "devDependencies": {
+    "@babel/core": "7.5.5",
+    "@babel/plugin-proposal-object-rest-spread": "^7.5.5",
+    "@babel/preset-env": "7.5.5",
+    "file-loader": "^4.1.0",
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2",
+    "webpack-manifest-plugin": "^2.0.4"
+  }
+}
